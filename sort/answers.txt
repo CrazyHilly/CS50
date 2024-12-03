@@ -1,0 +1,11 @@
+sort1 uses: bubble
+
+How do you know?: it's the quickest on sorted numbers
+
+sort2 uses: merge
+
+How do you know?: it's the quickest on non-sorted numbers and equally quick on all numbers
+
+sort3 uses: selection
+
+How do you know?: has equal average speed on all numbers

@@ -1,0 +1,9 @@
+Happy and lively.
+
+One person can listen to different songs depending on the mood, activity, time of day, etc.
+If a person most of the time listens to a quite energetic music but sometimes to very slow music, such calculation will result in a middle value, which is far from the reality.
+
+A better way might be to look, first of all, into each session separately.
+Group fully played songs (also might take into account songs that were skipped) by their similarities.
+Calculate a number of similar songs played and identify mood based on this info.
+And based on this data throughout the year, identify most frequent moods, i.e. audio aura, of a person.
